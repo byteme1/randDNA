@@ -17,3 +17,4 @@ int main()
     cout <<"\n\nOutput:\n\t"<<randDNA(seed,bases,n)<<endl; //print output  
 }
 
+
